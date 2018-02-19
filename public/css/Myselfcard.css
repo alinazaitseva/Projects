@@ -1,0 +1,182 @@
+*{
+	font-family: "Tempus Sans ITC","Courier New", Arial, Helvetica;
+	padding:0px;
+}
+body{
+	background-color: #0d0d0d;
+}
+.blackblock{
+	background-color: #0d0d0d;
+	width: 1380px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.pinkup{
+	background-color: #ffecd7;
+	height: 65px; 
+	width: 750px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.homeimage{
+    width: 36px;
+    height: 30px;
+    margin-top: 10px;
+    position: absolute;
+}
+.hometext{
+    font-size: 20px;
+    color: black;
+    font-family: 'Courier New';
+	font-weight: bold;
+	margin-left: 44px;
+	margin-top: 18px;
+	text-align: left;
+}
+/*links*/
+div.pcenter a:hover p {
+    color:   #8c8c8c;
+}
+div.pcenter a:hover {
+    text-decoration: none;
+}
+.zaitseva, .developer, .ukrainian{
+	font-family: 'Tempus Sans ITC';
+}
+.zaitseva, .developer{
+	margin-left: 44px;
+}
+
+.zaitseva{
+	font-size: 58px;
+	color: #f7f6f6;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	height: 68px;
+}
+.developer{
+	font-size: 22px;
+	color: #f7f6f6;
+}
+.aboutme{
+	margin-left: 14px;
+	margin-top: 40px;
+}
+.ukrainian{
+	color: #fef8a0;
+	font-size: 24px;
+}
+.alinaphoto{
+	width: 292px;
+	height: 385px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.whiteabout{
+	color: #f7f6f6;
+	font-size: 22px;
+	text-align: justify;
+	margin-top: 45px;
+}
+.socialbutton{
+	width: 45px;
+	height: 45px;
+	margin-top: 10px;
+}
+.margin-left10{
+	margin-left: 10px;
+}
+.introduct{
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+.per-inf{
+	font-size: 20px;
+	color: white;
+}
+.resume{
+	margin-left: 53px;
+	margin-top: 20px;
+}
+.employ{
+	margin-left: 19px;
+	margin-top: 14px;
+}
+.margin-bot50{
+	margin-bottom: 120px;
+	float: right;
+	/* display: block;
+    margin: 0 auto; */
+}
+.margin-top20{
+	margin-top: 20px;
+}
+.margin-left40{
+	margin-left: 40px;
+}
+.hei50, .cont-drop{
+	height: 45px;
+}
+.dev-skill{
+	margin-left: 307px;
+}
+.margin-bot10{
+	margin-bottom: 10px;
+	float: right;
+}
+.margin-top35{
+	margin-top: 35px;
+}
+.C-skill{
+	margin-left: 263px;
+}
+.marg-l60{
+	margin-left: 60px;
+}
+.in{
+	margin-left: 900px;
+	margin-top: 15px;
+	width: 400px;
+}
+.map{
+	margin-top: 14px;
+	margin-left: 40px;
+}
+.cont-hobie,.cont-f,.drop{
+	color: #72bb53;
+	font-size: 25px;
+}
+.cont-f{
+	margin-top: 100px;
+}
+.marg-righ20{
+	margin-right: 20px;
+}
+.drop{
+	text-align: center;
+	margin-left: 140px;
+	margin-top: 65px;
+}
+
+.cont-drop-text{
+	height: 125px;
+}
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+.sign{
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.down20{
+	margin-bottom: 20px;
+}
+.clornice{
+	background-color: 
+}
